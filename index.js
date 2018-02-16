@@ -1,4 +1,4 @@
 // Write your solution in this file!
-var customerName 
+var customerName
 function upperCaseCustomerName(customerName)
-customerName.upcase 
+customerName.toUpperCase()
